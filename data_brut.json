@@ -1,0 +1,723 @@
+[
+  {
+    "Percentile": "p0p1",
+    "France Threshold (€)": 0,
+    "France Average (€)": 0,
+    "World Threshold (€)": -12.1,
+    "World Average (€)": -6.1
+  },
+  {
+    "Percentile": "p1p2",
+    "France Threshold (€)": 0,
+    "France Average (€)": 0,
+    "World Threshold (€)": -4,
+    "World Average (€)": -1.9
+  },
+  {
+    "Percentile": "p2p3",
+    "France Threshold (€)": 0,
+    "France Average (€)": 0,
+    "World Threshold (€)": -0.8,
+    "World Average (€)": 0.2
+  },
+  {
+    "Percentile": "p3p4",
+    "France Threshold (€)": 0,
+    "France Average (€)": 0,
+    "World Threshold (€)": 0.9,
+    "World Average (€)": 1.6
+  },
+  {
+    "Percentile": "p4p5",
+    "France Threshold (€)": 0,
+    "France Average (€)": 0,
+    "World Threshold (€)": 3.1,
+    "World Average (€)": 4.6
+  },
+  {
+    "Percentile": "p5p6",
+    "France Threshold (€)": 286.4008,
+    "France Average (€)": 572.8017,
+    "World Threshold (€)": 59.5,
+    "World Average (€)": 114.3
+  },
+  {
+    "Percentile": "p6p7",
+    "France Threshold (€)": 1145.5088,
+    "France Average (€)": 1718.3105,
+    "World Threshold (€)": 191.8,
+    "World Average (€)": 269.3
+  },
+  {
+    "Percentile": "p7p8",
+    "France Threshold (€)": 2290.9229,
+    "France Average (€)": 2863.63,
+    "World Threshold (€)": 344.5,
+    "World Average (€)": 419.7
+  },
+  {
+    "Percentile": "p8p9",
+    "France Threshold (€)": 3436.4317,
+    "France Average (€)": 4009.1388,
+    "World Threshold (€)": 485.6,
+    "World Average (€)": 551.5
+  },
+  {
+    "Percentile": "p9p10",
+    "France Threshold (€)": 4581.8459,
+    "France Average (€)": 5154.6476,
+    "World Threshold (€)": 620.4,
+    "World Average (€)": 689.3
+  },
+  {
+    "Percentile": "p10p11",
+    "France Threshold (€)": 5727.3547,
+    "France Average (€)": 6299.9671,
+    "World Threshold (€)": 758.8,
+    "World Average (€)": 828.2
+  },
+  {
+    "Percentile": "p11p12",
+    "France Threshold (€)": 6872.8634,
+    "France Average (€)": 7445.4759,
+    "World Threshold (€)": 906.1,
+    "World Average (€)": 984.1
+  },
+  {
+    "Percentile": "p12p13",
+    "France Threshold (€)": 8018.2776,
+    "France Average (€)": 8591.0793,
+    "World Threshold (€)": 1055.4,
+    "World Average (€)": 1126.7
+  },
+  {
+    "Percentile": "p13p14",
+    "France Threshold (€)": 9163.7864,
+    "France Average (€)": 9736.5881,
+    "World Threshold (€)": 1202,
+    "World Average (€)": 1277.3
+  },
+  {
+    "Percentile": "p14p15",
+    "France Threshold (€)": 10309.2005,
+    "France Average (€)": 10881.9076,
+    "World Threshold (€)": 1354.5,
+    "World Average (€)": 1431.7
+  },
+  {
+    "Percentile": "p15p16",
+    "France Threshold (€)": 11454.7093,
+    "France Average (€)": 12027.6056,
+    "World Threshold (€)": 1509.7,
+    "World Average (€)": 1587.6
+  },
+  {
+    "Percentile": "p16p17",
+    "France Threshold (€)": 12600.1235,
+    "France Average (€)": 13172.736,
+    "World Threshold (€)": 1672.2,
+    "World Average (€)": 1756.8
+  },
+  {
+    "Percentile": "p17p18",
+    "France Threshold (€)": 13745.6323,
+    "France Average (€)": 14318.434,
+    "World Threshold (€)": 1827.7,
+    "World Average (€)": 1898.5
+  },
+  {
+    "Percentile": "p18p19",
+    "France Threshold (€)": 14891.141,
+    "France Average (€)": 15463.7535,
+    "World Threshold (€)": 1981.1,
+    "World Average (€)": 2063.7
+  },
+  {
+    "Percentile": "p19p20",
+    "France Threshold (€)": 16036.5552,
+    "France Average (€)": 16609.3569,
+    "World Threshold (€)": 2116.3,
+    "World Average (€)": 2168.9
+  },
+  {
+    "Percentile": "p20p21",
+    "France Threshold (€)": 16895.6631,
+    "France Average (€)": 17182.064,
+    "World Threshold (€)": 2218.3,
+    "World Average (€)": 2267.6
+  },
+  {
+    "Percentile": "p21p22",
+    "France Threshold (€)": 17424.9417,
+    "France Average (€)": 17667.9141,
+    "World Threshold (€)": 2318.1,
+    "World Average (€)": 2368.7
+  },
+  {
+    "Percentile": "p22p23",
+    "France Threshold (€)": 17917.3203,
+    "France Average (€)": 18166.632,
+    "World Threshold (€)": 2417.6,
+    "World Average (€)": 2466.4
+  },
+  {
+    "Percentile": "p23p24",
+    "France Threshold (€)": 18413.4836,
+    "France Average (€)": 18660.2406,
+    "World Threshold (€)": 2527.2,
+    "World Average (€)": 2587.9
+  },
+  {
+    "Percentile": "p24p25",
+    "France Threshold (€)": 18892.0483,
+    "France Average (€)": 19123.7614,
+    "World Threshold (€)": 2640.1,
+    "World Average (€)": 2692.2
+  },
+  {
+    "Percentile": "p25p26",
+    "France Threshold (€)": 19354.9069,
+    "France Average (€)": 19586.0523,
+    "World Threshold (€)": 2742.4,
+    "World Average (€)": 2792.6
+  },
+  {
+    "Percentile": "p26p27",
+    "France Threshold (€)": 19774.7155,
+    "France Average (€)": 19963.4732,
+    "World Threshold (€)": 2848.3,
+    "World Average (€)": 2904
+  },
+  {
+    "Percentile": "p27p28",
+    "France Threshold (€)": 20148.541,
+    "France Average (€)": 20333.6087,
+    "World Threshold (€)": 2957,
+    "World Average (€)": 3009.9
+  },
+  {
+    "Percentile": "p28p29",
+    "France Threshold (€)": 20539.3972,
+    "France Average (€)": 20745.1857,
+    "World Threshold (€)": 3074.2,
+    "World Average (€)": 3138.5
+  },
+  {
+    "Percentile": "p29p30",
+    "France Threshold (€)": 20966.3966,
+    "France Average (€)": 21187.5128,
+    "World Threshold (€)": 3195.8,
+    "World Average (€)": 3253.1
+  },
+  {
+    "Percentile": "p30p31",
+    "France Threshold (€)": 21401.1544,
+    "France Average (€)": 21614.7014,
+    "World Threshold (€)": 3316.2,
+    "World Average (€)": 3379.3
+  },
+  {
+    "Percentile": "p31p32",
+    "France Threshold (€)": 21810.2714,
+    "France Average (€)": 22005.8415,
+    "World Threshold (€)": 3449.8,
+    "World Average (€)": 3520.2
+  },
+  {
+    "Percentile": "p32p33",
+    "France Threshold (€)": 22181.0692,
+    "France Average (€)": 22356.3916,
+    "World Threshold (€)": 3579.7,
+    "World Average (€)": 3639.2
+  },
+  {
+    "Percentile": "p33p34",
+    "France Threshold (€)": 22553.3809,
+    "France Average (€)": 22750.2755,
+    "World Threshold (€)": 3710,
+    "World Average (€)": 3780.9
+  },
+  {
+    "Percentile": "p34p35",
+    "France Threshold (€)": 22933.8294,
+    "France Average (€)": 23117.3833,
+    "World Threshold (€)": 3843.4,
+    "World Average (€)": 3906
+  },
+  {
+    "Percentile": "p35p36",
+    "France Threshold (€)": 23299.1395,
+    "France Average (€)": 23480.9903,
+    "World Threshold (€)": 3984.2,
+    "World Average (€)": 4062.4
+  },
+  {
+    "Percentile": "p36p37",
+    "France Threshold (€)": 23672.0189,
+    "France Average (€)": 23862.9528,
+    "World Threshold (€)": 4134.2,
+    "World Average (€)": 4206
+  },
+  {
+    "Percentile": "p37p38",
+    "France Threshold (€)": 24059.6582,
+    "France Average (€)": 24256.4583,
+    "World Threshold (€)": 4285,
+    "World Average (€)": 4364
+  },
+  {
+    "Percentile": "p38p39",
+    "France Threshold (€)": 24455.3398,
+    "France Average (€)": 24654.4107,
+    "World Threshold (€)": 4433.5,
+    "World Average (€)": 4502.9
+  },
+  {
+    "Percentile": "p39p40",
+    "France Threshold (€)": 24849.0346,
+    "France Average (€)": 25043.5639,
+    "World Threshold (€)": 4577.9,
+    "World Average (€)": 4652.8
+  },
+  {
+    "Percentile": "p40p41",
+    "France Threshold (€)": 25221.3462,
+    "France Average (€)": 25399.1286,
+    "World Threshold (€)": 4730.9,
+    "World Average (€)": 4809
+  },
+  {
+    "Percentile": "p41p42",
+    "France Threshold (€)": 25570.004,
+    "France Average (€)": 25740.8794,
+    "World Threshold (€)": 4894,
+    "World Average (€)": 4978.9
+  },
+  {
+    "Percentile": "p42p43",
+    "France Threshold (€)": 25922.541,
+    "France Average (€)": 26104.0134,
+    "World Threshold (€)": 5072.9,
+    "World Average (€)": 5166.9
+  },
+  {
+    "Percentile": "p43p44",
+    "France Threshold (€)": 26272.0504,
+    "France Average (€)": 26440.1819,
+    "World Threshold (€)": 5249.2,
+    "World Average (€)": 5331.4
+  },
+  {
+    "Percentile": "p44p45",
+    "France Threshold (€)": 26593.2697,
+    "France Average (€)": 26746.452,
+    "World Threshold (€)": 5424.3,
+    "World Average (€)": 5517.1
+  },
+  {
+    "Percentile": "p45p46",
+    "France Threshold (€)": 26923.4775,
+    "France Average (€)": 27100.3137,
+    "World Threshold (€)": 5615.2,
+    "World Average (€)": 5713.3
+  },
+  {
+    "Percentile": "p46p47",
+    "France Threshold (€)": 27292.3829,
+    "France Average (€)": 27484.4522,
+    "World Threshold (€)": 5816.7,
+    "World Average (€)": 5920.2
+  },
+  {
+    "Percentile": "p47p48",
+    "France Threshold (€)": 27705.2846,
+    "France Average (€)": 27926.2116,
+    "World Threshold (€)": 6035.1,
+    "World Average (€)": 6149.9
+  },
+  {
+    "Percentile": "p48p49",
+    "France Threshold (€)": 28126.7963,
+    "France Average (€)": 28327.3809,
+    "World Threshold (€)": 6273.3,
+    "World Average (€)": 6396.7
+  },
+  {
+    "Percentile": "p49p50",
+    "France Threshold (€)": 28528.7225,
+    "France Average (€)": 28729.9695,
+    "World Threshold (€)": 6499.6,
+    "World Average (€)": 6602.5
+  },
+  {
+    "Percentile": "p50p51",
+    "France Threshold (€)": 28922.228,
+    "France Average (€)": 29114.4865,
+    "World Threshold (€)": 6710,
+    "World Average (€)": 6817.5
+  },
+  {
+    "Percentile": "p51p52",
+    "France Threshold (€)": 29318.4774,
+    "France Average (€)": 29522.4682,
+    "World Threshold (€)": 6946.9,
+    "World Average (€)": 7076.3
+  },
+  {
+    "Percentile": "p52p53",
+    "France Threshold (€)": 29699.3044,
+    "France Average (€)": 29875.9514,
+    "World Threshold (€)": 7203,
+    "World Average (€)": 7329.8
+  },
+  {
+    "Percentile": "p53p54",
+    "France Threshold (€)": 30051.0845,
+    "France Average (€)": 30226.123,
+    "World Threshold (€)": 7461.5,
+    "World Average (€)": 7593.3
+  },
+  {
+    "Percentile": "p54p55",
+    "France Threshold (€)": 30406.2707,
+    "France Average (€)": 30586.7023,
+    "World Threshold (€)": 7739.5,
+    "World Average (€)": 7885.6
+  },
+  {
+    "Percentile": "p55p56",
+    "France Threshold (€)": 30819.0778,
+    "France Average (€)": 31051.5478,
+    "World Threshold (€)": 8024.9,
+    "World Average (€)": 8164.2
+  },
+  {
+    "Percentile": "p56p57",
+    "France Threshold (€)": 31258.3771,
+    "France Average (€)": 31465.1118,
+    "World Threshold (€)": 8304.9,
+    "World Average (€)": 8445.6
+  },
+  {
+    "Percentile": "p57p58",
+    "France Threshold (€)": 31717.2619,
+    "France Average (€)": 31969.5065,
+    "World Threshold (€)": 8611.8,
+    "World Average (€)": 8778
+  },
+  {
+    "Percentile": "p58p59",
+    "France Threshold (€)": 32183.7158,
+    "France Average (€)": 32398.0197,
+    "World Threshold (€)": 8928.5,
+    "World Average (€)": 9078.9
+  },
+  {
+    "Percentile": "p59p60",
+    "France Threshold (€)": 32601.6321,
+    "France Average (€)": 32805.2445,
+    "World Threshold (€)": 9236.7,
+    "World Average (€)": 9394.5
+  },
+  {
+    "Percentile": "p60p61",
+    "France Threshold (€)": 32997.6922,
+    "France Average (€)": 33190.0453,
+    "World Threshold (€)": 9561.6,
+    "World Average (€)": 9728.7
+  },
+  {
+    "Percentile": "p61p62",
+    "France Threshold (€)": 33452.5085,
+    "France Average (€)": 33714.7824,
+    "World Threshold (€)": 9925.8,
+    "World Average (€)": 10123
+  },
+  {
+    "Percentile": "p62p63",
+    "France Threshold (€)": 33980.1786,
+    "France Average (€)": 34245.5749,
+    "World Threshold (€)": 10341.8,
+    "World Average (€)": 10560.6
+  },
+  {
+    "Percentile": "p63p64",
+    "France Threshold (€)": 34487.5065,
+    "France Average (€)": 34729.4381,
+    "World Threshold (€)": 10784,
+    "World Average (€)": 11007.4
+  },
+  {
+    "Percentile": "p64p65",
+    "France Threshold (€)": 34968.5312,
+    "France Average (€)": 35207.5298,
+    "World Threshold (€)": 11213.8,
+    "World Average (€)": 11420.3
+  },
+  {
+    "Percentile": "p65p66",
+    "France Threshold (€)": 35514.1783,
+    "France Average (€)": 35820.7322,
+    "World Threshold (€)": 11645.4,
+    "World Average (€)": 11870.5
+  },
+  {
+    "Percentile": "p66p67",
+    "France Threshold (€)": 36101.5508,
+    "France Average (€)": 36382.4639,
+    "World Threshold (€)": 12125.7,
+    "World Average (€)": 12380.9
+  },
+  {
+    "Percentile": "p67p68",
+    "France Threshold (€)": 36645.9678,
+    "France Average (€)": 36909.3771,
+    "World Threshold (€)": 12626.9,
+    "World Average (€)": 12873
+  },
+  {
+    "Percentile": "p68p69",
+    "France Threshold (€)": 37173.1649,
+    "France Average (€)": 37436.9527,
+    "World Threshold (€)": 13164.3,
+    "World Average (€)": 13455.7
+  },
+  {
+    "Percentile": "p69p70",
+    "France Threshold (€)": 37673.0181,
+    "France Average (€)": 37909.3674,
+    "World Threshold (€)": 13687.4,
+    "World Average (€)": 13919.2
+  },
+  {
+    "Percentile": "p70p71",
+    "France Threshold (€)": 38185.8337,
+    "France Average (€)": 38462.3945,
+    "World Threshold (€)": 14198.8,
+    "World Average (€)": 14478.4
+  },
+  {
+    "Percentile": "p71p72",
+    "France Threshold (€)": 38851.8315,
+    "France Average (€)": 39241.0793,
+    "World Threshold (€)": 14794.4,
+    "World Average (€)": 15110.3
+  },
+  {
+    "Percentile": "p72p73",
+    "France Threshold (€)": 39644.9925,
+    "France Average (€)": 40048.7165,
+    "World Threshold (€)": 15480.3,
+    "World Average (€)": 15850.3
+  },
+  {
+    "Percentile": "p73p74",
+    "France Threshold (€)": 40394.1573,
+    "France Average (€)": 40739.5982,
+    "World Threshold (€)": 16198.7,
+    "World Average (€)": 16547.1
+  },
+  {
+    "Percentile": "p74p75",
+    "France Threshold (€)": 41113.5183,
+    "France Average (€)": 41487.3438,
+    "World Threshold (€)": 16859.7,
+    "World Average (€)": 17172.2
+  },
+  {
+    "Percentile": "p75p76",
+    "France Threshold (€)": 41875.6454,
+    "France Average (€)": 42263.8525,
+    "World Threshold (€)": 17541.3,
+    "World Average (€)": 17910.4
+  },
+  {
+    "Percentile": "p76p77",
+    "France Threshold (€)": 42730.1172,
+    "France Average (€)": 43196.382,
+    "World Threshold (€)": 18341.7,
+    "World Average (€)": 18773
+  },
+  {
+    "Percentile": "p77p78",
+    "France Threshold (€)": 43681.8536,
+    "France Average (€)": 44167.2307,
+    "World Threshold (€)": 19202.7,
+    "World Average (€)": 19632.3
+  },
+  {
+    "Percentile": "p78p79",
+    "France Threshold (€)": 44736.0585,
+    "France Average (€)": 45304.981,
+    "World Threshold (€)": 20162.8,
+    "World Average (€)": 20693.3
+  },
+  {
+    "Percentile": "p79p80",
+    "France Threshold (€)": 45831.0427,
+    "France Average (€)": 46357.1044,
+    "World Threshold (€)": 21184.4,
+    "World Average (€)": 21675.5
+  },
+  {
+    "Percentile": "p80p81",
+    "France Threshold (€)": 46933.4068,
+    "France Average (€)": 47509.7093,
+    "World Threshold (€)": 22079.4,
+    "World Average (€)": 22483.3
+  },
+  {
+    "Percentile": "p81p82",
+    "France Threshold (€)": 48139.8479,
+    "France Average (€)": 48769.892,
+    "World Threshold (€)": 23089.5,
+    "World Average (€)": 23695.8
+  },
+  {
+    "Percentile": "p82p83",
+    "France Threshold (€)": 49484.9952,
+    "France Average (€)": 50200.0985,
+    "World Threshold (€)": 24299.3,
+    "World Average (€)": 24902.9
+  },
+  {
+    "Percentile": "p83p84",
+    "France Threshold (€)": 50952.3856,
+    "France Average (€)": 51704.7674,
+    "World Threshold (€)": 25604,
+    "World Average (€)": 26305.1
+  },
+  {
+    "Percentile": "p84p85",
+    "France Threshold (€)": 52544.763,
+    "France Average (€)": 53384.7586,
+    "World Threshold (€)": 26960.3,
+    "World Average (€)": 27615.5
+  },
+  {
+    "Percentile": "p85p86",
+    "France Threshold (€)": 54302.2443,
+    "France Average (€)": 55219.5407,
+    "World Threshold (€)": 28254.3,
+    "World Average (€)": 28893.1
+  },
+  {
+    "Percentile": "p86p87",
+    "France Threshold (€)": 56250.8487,
+    "France Average (€)": 57282.062,
+    "World Threshold (€)": 29695.5,
+    "World Average (€)": 30497.8
+  },
+  {
+    "Percentile": "p87p88",
+    "France Threshold (€)": 58329.6438,
+    "France Average (€)": 59377.3203,
+    "World Threshold (€)": 31323.5,
+    "World Average (€)": 32149.1
+  },
+  {
+    "Percentile": "p88p89",
+    "France Threshold (€)": 60533.7098,
+    "France Average (€)": 61690.0994,
+    "World Threshold (€)": 33156.4,
+    "World Average (€)": 34163.7
+  },
+  {
+    "Percentile": "p89p90",
+    "France Threshold (€)": 62764.0789,
+    "France Average (€)": 63838.0584,
+    "World Threshold (€)": 35224,
+    "World Average (€)": 36284.2
+  },
+  {
+    "Percentile": "p90p91",
+    "France Threshold (€)": 65035.3219,
+    "France Average (€)": 66232.4906,
+    "World Threshold (€)": 37465.8,
+    "World Average (€)": 38647.4
+  },
+  {
+    "Percentile": "p91p92",
+    "France Threshold (€)": 67620.4987,
+    "France Average (€)": 69008.5068,
+    "World Threshold (€)": 40169,
+    "World Average (€)": 41690.7
+  },
+  {
+    "Percentile": "p92p93",
+    "France Threshold (€)": 70676.0088,
+    "France Average (€)": 72343.4162,
+    "World Threshold (€)": 43108,
+    "World Average (€)": 44525.4
+  },
+  {
+    "Percentile": "p93p94",
+    "France Threshold (€)": 74397.0437,
+    "France Average (€)": 76450.5766,
+    "World Threshold (€)": 46645.6,
+    "World Average (€)": 48765.8
+  },
+  {
+    "Percentile": "p94p95",
+    "France Threshold (€)": 79064.0434,
+    "France Average (€)": 81677.5103,
+    "World Threshold (€)": 51395.2,
+    "World Average (€)": 54024.6
+  },
+  {
+    "Percentile": "p95p96",
+    "France Threshold (€)": 85157.4651,
+    "France Average (€)": 88637.3253,
+    "World Threshold (€)": 57134.1,
+    "World Average (€)": 60243.5
+  },
+  {
+    "Percentile": "p96p97",
+    "France Threshold (€)": 93591.0098,
+    "France Average (€)": 98544.5996,
+    "World Threshold (€)": 65291.1,
+    "World Average (€)": 70338.6
+  },
+  {
+    "Percentile": "p97p98",
+    "France Threshold (€)": 106410.5464,
+    "France Average (€)": 114276.3986,
+    "World Threshold (€)": 77552.7,
+    "World Average (€)": 84766.8
+  },
+  {
+    "Percentile": "p98p99",
+    "France Threshold (€)": 129812.4383,
+    "France Average (€)": 145348.4779,
+    "World Threshold (€)": 97601.9,
+    "World Average (€)": 110437
+  },
+  {
+    "Percentile": "p99p100",
+    "France Threshold (€)": 161611.164,
+    "France Average (€)": 356976.565,
+    "World Threshold (€)": 124719.6,
+    "World Average (€)": 323626.5
+  },
+  {
+    "Percentile": "p99.9p100",
+    "France Threshold (€)": 514694.8725,
+    "France Average (€)": 1204609.5382,
+    "World Threshold (€)": 448821.6,
+    "World Average (€)": 1308933.1
+  },
+  {
+    "Percentile": "p99.99p100",
+    "France Threshold (€)": 1761576.7786,
+    "France Average (€)": 4197945.9364,
+    "World Threshold (€)": 1879169.6,
+    "World Average (€)": 5553143
+  },
+  {
+    "Percentile": "p99.999p100",
+    "France Threshold (€)": 10108627.2302,
+    "France Average (€)": 14768634.7161,
+    "World Threshold (€)": 14831348,
+    "World Average (€)": 22042398
+  }
+]
