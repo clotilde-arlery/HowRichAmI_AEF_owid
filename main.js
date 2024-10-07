@@ -369,7 +369,7 @@ function App(triggeringEvent){
     document.getElementById("timesRevenuMedian").innerHTML =
         formatNumber(timesRevenuMedian) + " fois ";
 /* global_income_distrib_owid[9]["threshold"] à réécrire */
-    let times10poorest = income_usd_2017 / global_income_distrib_owid[9]["threshold"];
+    let times10poorest = income_usd_2017 / (global_income_distrib_owid[9]["threshold"]*365);
     document.getElementById("times10poorest").innerHTML =
         formatNumber(times10poorest, roundToUnit=true) + " fois ";
     
